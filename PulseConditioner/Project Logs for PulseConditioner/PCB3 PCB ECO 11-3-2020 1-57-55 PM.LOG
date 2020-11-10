@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P2 Old Footprint=HDR2X3_CEN New Footprint=HDR1X6
+Change Component Comment : Designator=P2 Old Comment=Header 3X2A New Comment=Header 6
+Change Net Name : Old Net Name=NetP2_2 New Net Name=CLK
+Added Member To Class: ClassName=schem Member=Component P2 Header 6
+Added Member To Class: ClassName=schem Member=Component R2 9.1k 0805
+Added Room: Name=schem
